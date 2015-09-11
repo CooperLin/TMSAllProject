@@ -122,7 +122,7 @@
         self.requestManager = [[RequestManager alloc]init];
     }
     self.requestManager.delegate = self;
-    
+    NSLog(@"-- -- -- %d",isCht);
     if (![DataManager checkUpdatedTodayByType:RouteDataTypeCityRoutes])
     {
         NSString *str = isCht?APICityRoutesPath:APICityRoutesPathEn;
