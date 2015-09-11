@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+  <Row Background="" Image="" qname="" Text="v[Version] &#13;" />
+
+<!--  <Row Background="Line" Image="" qname="" Text="" />-->
+  <Row Background="" Image="" qname="" Text="說明:&#13;" />
+  <Row Background="" Image="" qname="" Text="     1.提供桃園地區公車即時動態資訊&#13;" />
+  <Row Background="" Image="" qname="" Text="     2.提供依站牌位置附近公車路線，並&#13;" />
+  <Row Background="" Image="" qname="" Text="     顯示各路線到站資訊&#13;" />
+  <Row Background="" Image="" qname="" Text="     3.提供站牌位置地圖顯示，並可結合&#13;" />
+  <Row Background="" Image="" qname="" Text="     電子地圖輕易走到站牌" />
+
+<!--  <Row Background="Line" Image="" qname="" Text="" />-->
+  <Row Background="" Image="" qname="" Text="資料來源:桃園市政府交通局" />
+  <Row Background="" Image="" qname="" Text="開發者:桃園市政府交通局" />
+</Table>
